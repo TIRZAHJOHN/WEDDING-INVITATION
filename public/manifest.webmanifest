@@ -1,0 +1,15 @@
+{
+  "name": "Sharon Lizie weds Sam Jaspher",
+  "short_name": "Sharon & Sam",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff6e7",
+  "theme_color": "#fff6e7",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

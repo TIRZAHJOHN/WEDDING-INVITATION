@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-label="Elegant couple portrait placeholder">
+  <defs>
+    <radialGradient id="sky" cx="50%" cy="28%" r="62%">
+      <stop stop-color="#fff7dc" stop-opacity=".96"/>
+      <stop offset=".48" stop-color="#ffdce2" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#241324"/>
+    </radialGradient>
+    <linearGradient id="silk" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fffaf1"/>
+      <stop offset=".54" stop-color="#f2d59b"/>
+      <stop offset="1" stop-color="#efb6bd"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="1600" fill="#120c16"/>
+  <rect x="72" y="72" width="1056" height="1456" rx="36" fill="url(#sky)"/>
+  <circle cx="600" cy="432" r="320" fill="#fff7dc" opacity=".28" filter="url(#soft)"/>
+  <g opacity=".72">
+    <circle cx="248" cy="238" r="4" fill="#fff7dc"/>
+    <circle cx="930" cy="304" r="5" fill="#fff7dc"/>
+    <circle cx="988" cy="662" r="3" fill="#fff7dc"/>
+    <circle cx="180" cy="690" r="3" fill="#fff7dc"/>
+    <circle cx="820" cy="178" r="3" fill="#fff7dc"/>
+  </g>
+  <path d="M212 1268c60-226 190-366 350-390 158-24 336 94 424 390-205 132-570 132-774 0Z" fill="#241324" opacity=".76"/>
+  <path d="M402 771c-50-44-70-102-58-176 17-104 109-183 212-183 104 0 198 79 215 183 11 74-10 132-61 176-75 65-231 65-308 0Z" fill="#241324" opacity=".86"/>
+  <path d="M574 790c-72 18-137 70-178 145 96 82 304 82 402 0-40-75-106-127-178-145-16 7-31 10-46 0Z" fill="url(#silk)" opacity=".92"/>
+  <path d="M655 812c54-42 129-54 198-24 81 36 137 124 158 267-96 66-225 96-349 88 42-92 38-210-7-331Z" fill="#fffaf1" opacity=".9"/>
+  <path d="M520 812c-54-42-128-54-198-24-81 36-137 124-158 267 94 65 221 95 344 89-38-92-34-211 12-332Z" fill="#241324" opacity=".88"/>
+  <path d="M170 175h860M170 1425h860" stroke="#f3d9a0" stroke-width="3" opacity=".65"/>
+  <path d="M600 150c32 52 75 85 130 98-55 13-98 46-130 98-32-52-75-85-130-98 55-13 98-46 130-98Z" fill="#f3d9a0" opacity=".72"/>
+</svg>

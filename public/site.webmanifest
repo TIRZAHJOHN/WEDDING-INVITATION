@@ -1,0 +1,8 @@
+{
+  "name": "Sharon & Sam Wedding Invitation",
+  "short_name": "Sharon & Sam",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#fff6e7",
+  "theme_color": "#fff6e7"
+}

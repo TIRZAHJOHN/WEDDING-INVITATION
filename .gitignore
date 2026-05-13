@@ -1,1 +1,10 @@
 node_modules
+dist
+.env
+.env.local
+.vercel
+.netlify
+screenshots
+test-artifacts
+vite-dev*.log
+npm-debug.log*
